@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Sriram&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Full-Stack%20Engineer%20%7C%20AI%2FML&descAlignY=55&descAlign=50" alt="Capsule Render" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Subham%20Sadangi&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Full-Stack%20Engineer%20%7C%20AI%2FML&descAlignY=55&descAlign=50" alt="Capsule Render" width="100%" />
 
 <a href="https://github.com/Sriram1576">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=600&lines=Building+Predictive+AI+Models;Engineering+Full-Stack+Solutions;Automating+Enterprise+Workflows;Transforming+Data+into+Intelligence" alt="Typing SVG" />
