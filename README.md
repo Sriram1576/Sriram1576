@@ -15,9 +15,9 @@
 <br/>
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a>
-<a href="https://linkedin.com/in/sriram"><img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sriram@example.com"><img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://subhamsadangi.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/subham-sadangi-8b619527a"><img src="https://img.shields.io/badge/LinkedIn-Connect-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:subhamsadangi1576@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Sriram1576"><img src="https://img.shields.io/badge/GitHub-Follow-3B0764?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/>
@@ -36,7 +36,7 @@
 
 ## 👨‍💻 About Me
 
-I am an engineering-focused Data Science student and Full-Stack Developer with a specialized background in Artificial Intelligence and Machine Learning from IIT Ropar. My core expertise lies in architecting robust software solutions, designing complex AI-driven automation systems, and engineering high-accuracy predictive models. I operate with a product engineering mindset, ensuring that algorithmic intelligence is seamlessly integrated into scalable web architectures to deliver tangible enterprise value.
+I am **Subham Sadangi**, an engineering-focused Data Science student and Full-Stack Developer with a specialized background in Artificial Intelligence and Machine Learning from IIT Ropar. My core expertise lies in architecting robust software solutions, designing complex AI-driven automation systems, and engineering high-accuracy predictive models. I operate with a product engineering mindset, ensuring that algorithmic intelligence is seamlessly integrated into scalable web architectures to deliver tangible enterprise value.
 
 **Open To:** Full-time Software Engineer, Data Scientist, or Machine Learning Engineer roles where I can architect intelligent systems and drive automation at scale.
 
@@ -279,10 +279,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:sriram@example.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://linkedin.com/in/sriram"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:subhamsadangi1576@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/subham-sadangi-8b619527a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/Sriram1576"><img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-View_Projects-7C3AED?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a>
+<a href="https://subhamsadangi.dpdns.org"><img src="https://img.shields.io/badge/Portfolio-View_Projects-7C3AED?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
